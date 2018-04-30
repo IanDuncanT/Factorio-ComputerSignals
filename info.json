@@ -1,0 +1,13 @@
+{
+  "name": "thecomb-computerSignals",
+  "version": "0.1.0",
+  "factorio_version": "0.16",
+  "title": "Computer Signals",
+  "author": "TheCombinator",
+  "contact": "CombinatorMasterRace@gmail.com",
+  "homepage": "",
+  "description": "These are a collection of signals I have found useful in my combinator creations.",
+  "dependencies":[
+    "base >= 0.16.0",
+  ]
+}
