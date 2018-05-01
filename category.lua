@@ -3,19 +3,19 @@ data:extend({
     type = "item-group",
     name = "combinator-signals",
     order = "ld",
-    icon = "",
-    icon_size = 128
+    icon = "__thecomb-computerSignals__/graphics/group-icon.png",
+    icon_size = 1024
   },
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "red-numbers",
+    name = "red-number",
     order = "a"
   },
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "red-letters",
+    name = "red-letter",
     order = "b"
   },
   {
@@ -33,13 +33,13 @@ data:extend({
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "yellow-numbers",
+    name = "yellow-number",
     order = "e"
   },
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "yellow-letters",
+    name = "yellow-letter",
     order = "f"
   },
   {
@@ -57,13 +57,13 @@ data:extend({
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "blue-numbers",
+    name = "blue-number",
     order = "i"
   },
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "blue-letters",
+    name = "blue-letter",
     order = "j"
   },
   {
@@ -81,13 +81,13 @@ data:extend({
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "green-numbers",
+    name = "green-number",
     order = "m"
   },
   {
     type = "item-subgroup",
     group = "combinator-signals",
-    name = "green-letters",
+    name = "green-letter",
     order = "n"
   },
   {
