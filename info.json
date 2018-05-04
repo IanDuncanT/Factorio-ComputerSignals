@@ -8,6 +8,6 @@
   "homepage": "",
   "description": "These are a collection of signals I have found useful in my combinator creations.",
   "dependencies":[
-    "base >= 0.16.0",
+    "base >= 0.16"
   ]
 }
